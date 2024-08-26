@@ -1,4 +1,4 @@
-﻿namespace Hello_World
+﻿namespace Aufgaben
 {
     internal class Program
     {
@@ -8,4 +8,3 @@
         }
     }
 }
-    

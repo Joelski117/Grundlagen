@@ -1,4 +1,4 @@
-﻿namespace Hello_World
+﻿namespace Rechner
 {
     internal class Program
     {
@@ -8,4 +8,3 @@
         }
     }
 }
-    
